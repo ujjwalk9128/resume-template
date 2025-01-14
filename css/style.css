@@ -1,0 +1,88 @@
+
+
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+  #left-design
+  {
+    margin: 8px;
+    background-color: blue;
+  }
+
+  #image-sec
+  {
+    position: relative;
+    
+  }
+
+  #image-detail>p
+  {
+     padding-left:10px;
+     
+  }
+
+  #skills-text
+  {
+    font-size: 25px;
+   
+  }
+
+  #lang-text
+  {
+    font-size: 25px;
+    
+    
+  }
+ 
+  .row
+  {
+    border: 5px;
+    border-color: yellow;
+    margin-left: 9%;
+    margin-top:20px;
+    margin-bottom: 50px;
+  }
+
+  #image-sec{
+    box-shadow: 10px 10px 11px 10px #00000021;
+  
+  }
+
+  .container1
+  {
+    border: 5px;
+    margin-left: 2%;
+    margin-top:20px;
+    margin-bottom:5px;
+    margin-right: 4%;
+    box-shadow: 10px 10px 11px 10px #00000021;
+
+  }
+
+  .container2
+  {
+    border: 5px;
+    margin-left: 2%;
+    margin-top:20px;
+    margin-bottom:10px;
+    margin-right: 4%;
+    box-shadow: 10px 10px 11px 10px #00000021;
+
+  }
+
+
+  #work-text
+  {
+    font-size:25px;
+    padding-top: 15px;
+  }
+
+  #edu-text
+  {
+    font-size:25px;
+    padding-top: 15px;
+  }
+
+ 
